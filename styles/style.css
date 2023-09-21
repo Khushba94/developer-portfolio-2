@@ -88,6 +88,13 @@ nav li {
   margin-bottom: 30px;
 }
 
+.fa-download{
+  padding-right: 10px;
+}
+
+.fa-phone{
+  padding-right: 10px;
+}
 /* main section */
 main {
   max-width: 1140px;
@@ -195,10 +202,6 @@ hr{
   margin-top: 50px;
   margin-bottom: 113px;
   text-align: center;
-}
-
-.fa-download{
-  padding-right: 10px;
 }
 
 /* contact syles */
