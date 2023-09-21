@@ -47,6 +47,7 @@ nav {
   display: flex;
   justify-content: space-between;
   margin: 50px 250px;
+  padding-top: 50px;
 }
 .nav-title {
   font-weight: 400;
@@ -192,6 +193,7 @@ hr{
 
 .resume-btn{
   margin-top: 50px;
+  margin-bottom: 113px;
   text-align: center;
 }
 
